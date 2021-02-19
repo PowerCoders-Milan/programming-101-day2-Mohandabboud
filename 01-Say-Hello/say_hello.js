@@ -2,11 +2,10 @@
 /*
 
 here
-Define an input form and assign it to a text to include the requested name
-Define a variable that take a text as an input and assign it to "write your name"
-our variable called Name
-Define a text that says the greeting sentence you want for my case "Hello" 
-Print hello + the varaible "Name"
+1- Define a variable that take a text as an input and assign it to "write your name"
+2- our variable called Name
+3- Define a text that says the greeting sentence you want for my case "Hello" 
+4- Print hello + the varaible "Name"
 */
 
 //insert your code below
